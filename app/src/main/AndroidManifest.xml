@@ -167,7 +167,7 @@
             android:name=".TransferLicense"
             android:screenOrientation="portrait"
             android:label="TRANSFER LICENSE"
-            android:exported="false" />
+            android:exported="true" />
 
         <!-- License Transfer (New Modern UI) -->
         <activity
